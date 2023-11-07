@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ibad Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<div display="flex" justify-content="space-between"><p align="left"> <a href="https://twitter.com/ibadurrehman718" target="blank"><img src="https://img.shields.io/twitter/follow/ibadurrehman718?logo=twitter&style=for-the-badge" alt="ibadurrehman718" /></a><span align="right"> <img src="https://komarev.com/ghpvc/?username=ibaddkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ibaddkhan" /> </span>
+<div><p align="left"> <a href="https://twitter.com/ibadurrehman718" target="blank"><img src="https://img.shields.io/twitter/follow/ibadurrehman718?logo=twitter&style=for-the-badge" alt="ibadurrehman718" /></a><span align="right"> <img align="right" src="https://komarev.com/ghpvc/?username=ibaddkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ibaddkhan" /> </span>
  </p></div>
 
 - 🔭 I’m currently working on [My Portfolio](https://ibaddkhan.github.io/Portfolio/)
