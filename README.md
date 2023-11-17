@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/mabdullahjs/mabdullahjs/master/images/background.png">
+
 <h1 align="center">Hi 👋, I'm Ibad Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
