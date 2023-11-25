@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://ibaddkhan.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Sass**
 
 - 👨‍💻 All of my projects are available at [https://ibaddkhan.github.io/Portfolio/](https://ibaddkhan.github.io/Portfolio/)
 
