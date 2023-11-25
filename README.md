@@ -5,11 +5,11 @@
 <div><p align="left"> <a href="https://twitter.com/ibadurrehman718" target="blank"><img src="https://img.shields.io/twitter/follow/ibadurrehman718?logo=twitter&style=for-the-badge" alt="ibadurrehman718" /></a><span align="right"> <img align="right" src="https://komarev.com/ghpvc/?username=ibaddkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ibaddkhan" /> </span>
  </p></div>
 
-- 🔭 I’m currently working on [My Portfolio](https://ibaddkhan.github.io/Portfolio/)
+- 🔭 I’m currently working on [My Portfolio]
 
 - 🌱 I’m currently learning **Javascript and Sass**
 
-- 👨‍💻 All of my projects are available at [https://ibaddkhan.github.io/Portfolio/](https://ibaddkhan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Website ](https://aboutibadd.web.app/)
 
 - 💬 Ask me about **HTML , CSS , JavaScript **
 
