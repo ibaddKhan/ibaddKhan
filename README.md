@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ibadurrehman718@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny**
+- ⚡ Fun fact **I am a somniloquist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
