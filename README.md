@@ -33,4 +33,4 @@
 <h3 align="left"> Plans of Learning :</h3>
 <p>
 	<img src="https://skillicons.dev/icons?i=nodejs,python,unrealengine,ts,mongodb,nextjs,postgresql,aws,materialui,sass,express,react" alt="">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibaddkhan&" alt="ibaddkhan" /></p>
+
