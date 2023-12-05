@@ -3,9 +3,8 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <div><p align="left"> <a href="https://twitter.com/ibadurrehman718" target="blank"><img src="https://img.shields.io/twitter/follow/ibadurrehman718?logo=twitter&style=for-the-badge" alt="ibadurrehman718" /></a><span align="right"> <img align="right" src="https://komarev.com/ghpvc/?username=ibaddkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ibaddkhan" /> 
-<a href="https://www.buymeacoffee.com/ibaddkhan"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" width="160px" /></a>
  </span>
- </p></div>
+ </p><a align="right" href="https://www.buymeacoffee.com/ibaddkhan"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" width="160px" /></a></div>
 
 - 🔭 I’m currently working on  [My Portfolio ](https://aboutibadd.web.app/)
 
