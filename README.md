@@ -1,4 +1,4 @@
-
+<img src="https://media.licdn.com/dms/image/C4E16AQH-YvkXx6VI5w/profile-displaybackgroundimage-shrink_350_1400/0/1651595095304?e=1710979200&v=beta&t=o6EmNIRxTSVWmgxEu-h_9TpRcYVdFc9bXOEIOOJXoUQ"/>
 <h1 align="center">Hi 👋, I'm Ibad Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
