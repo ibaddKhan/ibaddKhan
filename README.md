@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on  [My Portfolio ](https://aboutibadd.web.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Developement**
 
 - 👨‍💻 All of my projects are available at [My Website ](https://aboutibadd.web.app/)
 
-- 💬 Ask me about **HTML , CSS , JavaScript ES6 **
+- 💬 Ask me about **HTML , CSS , JavaScript ES6, ReactJS **
 
 - 📫 How to reach me **ibadurrehman718@gmail.com**
 
